@@ -3,6 +3,7 @@
    <description></description>
    <name>easy_test</name>
    <tag></tag>
+<<<<<<< HEAD
    <UUID>cfa07ea9-e76e-4902-8fc0-6435d33f9b4d</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
@@ -25,4 +26,28 @@
       </systemFolderList>
    </sourceContent>
    <type>WEBUI</type>
+=======
+   <UUID>b1557546-0d4b-4ec6-8f05-6b51e425c0a2</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>GENERIC</type>
+>>>>>>> branch 'master' of https://github.com/arulkumar-git/easy_test.git
 </Project>
